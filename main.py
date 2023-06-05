@@ -75,9 +75,4 @@
 #   print("nota invalida")
 # else:
 
-entrada = input()
-for caractere in (entrada):
-    aux = caractere.upper()
-    if caractere.isupper()
-
-print(aux)
+import leitor_optico_1129
