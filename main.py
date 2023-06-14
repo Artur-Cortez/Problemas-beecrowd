@@ -75,4 +75,4 @@
 #   print("nota invalida")
 # else:
 
-import leitor_optico_1129
+import queen
